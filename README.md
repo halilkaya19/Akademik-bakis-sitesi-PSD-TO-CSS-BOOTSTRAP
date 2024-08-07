@@ -4,7 +4,7 @@
 - PHP Kullanılarak Yönetim Paneli geliştirildi sitenin tüm alanları Yönetilebilir oldu...
 
 (Arayüz)<br>
-<img src="https://i.hizliresim.com/9y46jzb.png" width="60%"><br>
+<img src="https://i.hizliresim.com/3youukg.jpg" width="60%"><br>
 (Yönetim Paneli)<br>
 <img src="https://i.hizliresim.com/3i7ozwd.png" width="60%">
 
